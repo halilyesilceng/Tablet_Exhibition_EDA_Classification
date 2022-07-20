@@ -1,10 +1,9 @@
-# Tablet_Exhibition_EDA_Classification
+# Tablet Exhibition Exploratory Data Analysis and Classification
 
-IN THIS PROJECT,
-## The purpose is doing exploratoray data analysis and then running a classification algorithm.
-## Lots of machine learning algorithm is used for test and k-nn algorithm is the most successful one. 
-## The language of the project is Turkish.
+Project
+## The purpose is to do an exploratory data analysis and then run a classification algorithm.
+## A large number of machine learning algorithms were used for testing. The k-nn algorithm was the most successful one.
 
-FOLDERS,
-## You can find jupyter notebook with ipynb extension in the jupyter notebook folder.
-## You can find the html output of this project in the html output folder.
+About Folders
+## You can find jupyter notebook with ipynb extension in the jupyter_notebook folder.
+## You can find the html output of this project in the html_output folder.
